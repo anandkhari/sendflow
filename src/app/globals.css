@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* App-wide base styles can go here */
+body {
+  background: #f6f7fb;
+  color: #101828;
+}
